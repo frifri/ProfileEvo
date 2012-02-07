@@ -1,0 +1,33 @@
+#==============================================================================
+#
+#				ProfileEvo Version 0.3 			      =
+#				  Par Francis Genet			      =
+#
+#==============================================================================
+
+This program will allow you to save your profiles (mails…) for Outlook Express,
+Thunderbird and Microsoft Office Outlook.
+
+This program was tested under Thunderbird 3, Outlook Express 6 and Microsoft Office Outlook 2007.
+
+This version do NOT automatically archive the folder, you will have to do it by yourself
+in order to easily keep them. 
+
+V0.3: january 24 2010 :
+
+- Adding import
+
+V0.2: january 11 2010 : 
+
+- Adding Microsoft Office Outlook 2007
+
+V0.1: december 28 2009 : 
+
+- First version of the application.
+
+
+#==============================================================================
+
+All icons from http://www.iconfinder.net/
+
+(c) 2009-2012 _ Francis Genet
