@@ -1,0 +1,35 @@
+#==============================================================================
+#
+#				ProfileEvo Version 0.3 			      =
+#				  Par Francis Genet			      =
+#
+#==============================================================================
+
+Ce logiciel permet de sauvegarder ses profils (mails...) Pour les logiciels de 
+messagerie que sont Outlook Express, Thunderbird et Microsoft Office Outlook.
+
+Ce logiciel est teste et approuve pour Thunderbird 3, Outlook Express 6 et 
+Microsoft Office Outlook Tou Taozeund énd séveun.
+
+Dans sa version actuelle, il ne permet pas de zipper automatiquement les dossiers
+Il vous est donc conseille de le faire manuellement pour le moment et de les
+mettre en lieux sur.
+
+Version 0.3 au 24 janvier 2010 :
+
+- Ajout de la gestion de l'import
+
+Version 0.2 au 11 janvier 2010 : 
+
+- Ajout de la gestion de Microsoft Office Outlook 2007
+
+Version 0.1 au 28 décembre 2009 : 
+
+- Application initiale.
+
+
+#==============================================================================
+
+Toutes les icônes viennent du site http://www.iconfinder.net/
+
+(c) 2009-2010 _ Francis Genet
